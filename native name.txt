@@ -1,0 +1,10 @@
+public class charAsciiAssign {
+    public static void main(String[] args) {
+        char c ='\u0936';
+        char c1 = '\u093F';
+        char c2 = '\u0935';
+        char c3 = '\u092E';
+        System.out.println("The name is " + c + c1+c2+ c3);
+    }
+}
+
